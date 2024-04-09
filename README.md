@@ -1,1 +1,4 @@
-# projects
+# Movies Correlation Projects:
+* This project analyzes the correlation between attributes of movies such as Gross, Budget, Votes, Revenue, etc. from 1980 to present, as well as provides an overview of the movie industry through questions and visualizations.
+* Context: Is the movie industry dying? Is Netflix the new entertainment king? Those were the first questions that lead me to focus on movie revenue and analyze it over the last decades. But, why stop there? There are more factors that intervene in this kind of thing, like actors, genres, user ratings and more. And now, anyone with experience (you) can ask specific questions about the movie industry, and get answers.
+* Data Description: There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes: budget, company, country, director, genre, gross, name, rating, released date, runtime, score, vote, star, writer, year
